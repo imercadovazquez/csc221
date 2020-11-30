@@ -9,6 +9,6 @@ __Webscraped URL:__ [Wiki Page for VA](https://en.wikipedia.org/wiki/Virginia)
 
 __Collaborators:__
   - Eric Meehan
-  - student2
+  - Ismael Mercado Vazquez imercadovazquez@my.waketech.edu - Accepted
   - student3
   - student4
